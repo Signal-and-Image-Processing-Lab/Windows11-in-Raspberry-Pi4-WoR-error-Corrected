@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Windows11-in-Raspberry-Pi4"
+type: software
+authors:
+  - name: "Signal and Image Processing Lab"
+repository-code: "https://github.com/Signal-and-Image-Processing-Lab/Windows11-in-Raspberry-Pi4-WoR-error-Corrected"
+url: "https://github.com/Signal-and-Image-Processing-Lab/Windows11-in-Raspberry-Pi4-WoR-error-Corrected"
+date-released: 2026-10-14
+version: "1.0"
+license: "MIT"
+abstract: "A repository describing the installation and error-correction procedure for running Windows 11 on Raspberry Pi 4 using Windows on Raspberry (WoR)."
